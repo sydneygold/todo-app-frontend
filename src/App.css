@@ -4,6 +4,17 @@ body {
   background: linear-gradient(313deg, rgba(255,255,255,1) 0%, rgba(208,255,214,1) 45%, rgba(248,255,112,1) 100%);
 }
 
+.signup-form {
+  display: flex;
+  flex-flow: row wrap;
+  width: 200px;
+  background-color: snow;
+  margin: 2%;
+  padding: 2%;
+  line-height: 1.5em;
+  box-shadow: 0 15px 15px -4px rgb(93,162,88);
+}
+
 .todo-list {
   display: flex;
   flex-flow: row wrap;
