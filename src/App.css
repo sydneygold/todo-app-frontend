@@ -8,6 +8,7 @@ body {
   display: flex;
   flex-flow: row wrap;
   width: 200px;
+  height: 250px;
   background-color: snow;
   margin: 2%;
   padding: 2%;
